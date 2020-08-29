@@ -17,3 +17,7 @@
 
 ### :alembic: Socials
 <a href="https://steamcommunity.com/id/aethez"><img src="https://img.shields.io/badge/Steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white"></a>
+
+
+### :loud_sound: Currently Playing
+[![Spotify](https://spotify-now-playing-git-master.aethezxd.vercel.app/api/spotify)](https://open.spotify.com/user/not-here-yet)
