@@ -8,3 +8,4 @@ Check out my current work:
 - [my website](https://vig.codes)
 
 <!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
