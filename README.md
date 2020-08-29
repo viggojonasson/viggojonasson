@@ -6,3 +6,5 @@ All my repositories are private.
 Check out my current work:
 - [scrippy](https://scrippy.tf)
 - [my website](https://vig.codes)
+
+<!--START_SECTION:activity-->
