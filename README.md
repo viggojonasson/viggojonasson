@@ -8,11 +8,11 @@
 
 ### :art: Recent Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com//HackerinoS2/TF2AutomaticCG-PHP/pull/1) in [HackerinoS2/TF2AutomaticCG-PHP](https://github.com//HackerinoS2/TF2AutomaticCG-PHP)
-2. 🗣 Commented on [#1](https://github.com//HackerinoS2/TF2AutomaticCG-PHP/issues/1) in [HackerinoS2/TF2AutomaticCG-PHP](https://github.com//HackerinoS2/TF2AutomaticCG-PHP)
-3. ❌ Closed PR [#6](https://github.com//Wiethoofd/WietHUD/pull/6) in [Wiethoofd/WietHUD](https://github.com//Wiethoofd/WietHUD)
-4. 🗣 Commented on [#6](https://github.com//Wiethoofd/WietHUD/issues/6) in [Wiethoofd/WietHUD](https://github.com//Wiethoofd/WietHUD)
-5. 🗣 Commented on [#460](https://github.com//Nicklason/tf2-automatic/issues/460) in [Nicklason/tf2-automatic](https://github.com//Nicklason/tf2-automatic)
+1. ❌ Closed PR [#1](https://github.com/HackerinoS2/TF2AutomaticCG-PHP/pull/1) in [HackerinoS2/TF2AutomaticCG-PHP](https://github.com/HackerinoS2/TF2AutomaticCG-PHP)
+2. 🗣 Commented on [#1](https://github.com/HackerinoS2/TF2AutomaticCG-PHP/issues/1) in [HackerinoS2/TF2AutomaticCG-PHP](https://github.com/HackerinoS2/TF2AutomaticCG-PHP)
+3. ❌ Closed PR [#6](https://github.com/Wiethoofd/WietHUD/pull/6) in [Wiethoofd/WietHUD](https://github.com/Wiethoofd/WietHUD)
+4. 🗣 Commented on [#6](https://github.com/Wiethoofd/WietHUD/issues/6) in [Wiethoofd/WietHUD](https://github.com/Wiethoofd/WietHUD)
+5. 🗣 Commented on [#460](https://github.com/Nicklason/tf2-automatic/issues/460) in [Nicklason/tf2-automatic](https://github.com/Nicklason/tf2-automatic)
 <!--END_SECTION:activity-->
 
 ### :alembic: Socials
